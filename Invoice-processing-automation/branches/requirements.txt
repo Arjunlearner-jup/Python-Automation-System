@@ -1,0 +1,5 @@
+streamlit
+pdfplumber
+pdfminer.six
+pandas
+mysql-connector-python
